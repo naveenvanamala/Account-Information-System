@@ -5,7 +5,7 @@ Account Information System :
 This is used to make the records of the customers of a Bank. This performs operations like storing data,
 displaying the stored data, modifying the data and so on.
 
-This application is used by the bank employee form makin records of the customers.
+This application is used by the bank employee for making records of the customers.
 
 done by : V. Naveen Kumar(1601-15-733-301) and G. Sai Krishna(1601-15-733-303).
 */
